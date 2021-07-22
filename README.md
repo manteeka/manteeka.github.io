@@ -1,2 +1,2 @@
-# manteeka.github.io
+# rancho-rastogi.github.io
 Website
